@@ -1,4 +1,10 @@
 # Alien Invasion
+================
 
+Jerrod Havig
 
-<p>Alien Invasion! This is a python crash course project.  </P>
+Python Crash Course 2nd Edition - Alien Invasion
+
+*Python Version 3.10*
+
+# Pygame
